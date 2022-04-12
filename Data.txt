@@ -1,0 +1,7 @@
+Git:
+
+git init: iniciar git
+git status: revisa el estado (en que branch o rama esta o si esta commiteado)
+git add . : añade git a lo que será commiteado
+git commit -m: agrega el archivo a la nuve en git
+ 
